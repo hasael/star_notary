@@ -2,11 +2,11 @@
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
 ### Rinkeby Token info
-Token name: Star
-Token symbol: STA
-Rinkeby address: 0xfc8884c5fc036a5935544188828f419fc516f3e0 [link here](https://rinkeby.etherscan.io/token/0xfc8884c5fc036a5935544188828f419fc516f3e0)
-Open Zeppelin version: 2.3.0 (as was set in the project)
-Truffle version: v5.4.21
+- Token name: Star
+- Token symbol: STA
+- Rinkeby address: 0xfc8884c5fc036a5935544188828f419fc516f3e0 [link here](https://rinkeby.etherscan.io/token/0xfc8884c5fc036a5935544188828f419fc516f3e0)
+- Open Zeppelin version: 2.3.0 (as was set in the project)
+- Truffle version: v5.4.21
 
 
 
