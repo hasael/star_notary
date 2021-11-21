@@ -1,8 +1,12 @@
 # ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
-### ToDo
-This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
+### Rinkeby Token info
+Token name: Star
+Token symbol: STA
+Rinkeby address: 0xfc8884c5fc036a5935544188828f419fc516f3e0 [link here](https://rinkeby.etherscan.io/token/0xfc8884c5fc036a5935544188828f419fc516f3e0)
+Open Zeppelin version: 2.3.0 (as was set in the project)
+Truffle version: v5.4.21
 
 
 
